@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsolatedScarab
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Python, HTML, CSS and Javascript
+- 👀 I’m interested in ... web development and cyber security 
+- 🌱 I’m currently learning ... HTML, CSS and Javascript through The Odin Project
 - 📫 How to reach me ... Luke6595@gmail.com
 
 <!---
